@@ -113,7 +113,7 @@
 
 The graph shows an upward trend in the growth rate of car production for Ford during the period of January in 2018 to December 2018. The graph reveals two important rising periods during the whole year.
 
-In January, the growth rate of car production was in the bottom of the whole year. It bottomed out at around 1.2% in March of 2018. Then, the growth rate rose sharply from 1.2% to nearly 4.5% in April of 2018. In the next five months from May to September in 2018, there was a fluctuation in the growth rate of car production between 2.8% and 4.6%.It reached a level at 4.1% in October of 2018 and then, it increased rapidly in the growth rate of car production and reached the peak at 6.3% in December of 2018.
+In January, the growth rate of car production was in the bottom of the whole year. It attached at around 1.2% in March of 2018. Then, the growth rate rose sharply from 1.2% to nearly 4.5% in April of 2018. **In the next five months from May to September in 2018, there was a fluctuation in the growth rate of car production between 2.8% and 4.6%**.It reached a level at 4.1% in October of 2018 and then, it increased rapidly in the growth rate of car production and reached the peak at 6.3% in December of 2018.
 
 
 
